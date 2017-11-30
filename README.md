@@ -1,5 +1,5 @@
 # UnityStudy-360VideoSkybox
-[https://aka.ms/mr](Windows Mixed Reality) demo project for immersive VR headsets used to showcase 360 degrees video as the Skybox background.
+[Windows Mixed Reality](https://aka.ms/mr) demo project for immersive VR headsets used to showcase 360 degrees video as the Skybox background.
 
 This is a work in a progress that I am sharing publicly as I add features. 
 
@@ -12,7 +12,7 @@ This is a work in a progress that I am sharing publicly as I add features.
 
 ## Implementation Notes
 
-* Uses the [https://github.com/Unity-Technologies/SkyboxPanoramicShader](Skybox Panoramic Shader project) from Unity
+* Uses the [Skybox Panoramic Shader project](https://github.com/Unity-Technologies/SkyboxPanoramicShader) from Unity
 * HMDs Tested: Samsung Odyssey
 
 ## Follow Me
